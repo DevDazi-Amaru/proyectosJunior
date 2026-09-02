@@ -10,5 +10,5 @@ multiplicacion = x * y
 division = x / y
 print(f"La suma de ambos numeros es {suma}")
 print(f"La resta de ambos es {resta}")
-print(f"La multiplicacion de ambos es{multiplicacion}")
+print(f"La multiplicacion de ambos es {multiplicacion}")
 print(f"La Division de ambos es {division}")
